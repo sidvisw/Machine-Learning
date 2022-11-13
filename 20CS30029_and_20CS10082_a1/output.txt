@@ -1,0 +1,14 @@
+---------- Data is loaded ----------
+---------- Testing on 10 random splits ----------
+Accuracy on split-0: 0.4157372986369269
+Accuracy on split-1: 0.4138785625774473
+Accuracy on split-2: 0.43308550185873607
+Accuracy on split-3: 0.4368029739776952
+Accuracy on split-4: 0.42441140024783147
+Accuracy on split-5: 0.43866171003717475
+Accuracy on split-6: 0.4368029739776952
+Accuracy on split-7: 0.42998760842627015
+Accuracy on split-8: 0.4349442379182156
+Accuracy on split-9: 0.42069392812887235
+Average Accuracy: 0.4285006195786865
+Maximum Accuracy: 0.43866171003717475
